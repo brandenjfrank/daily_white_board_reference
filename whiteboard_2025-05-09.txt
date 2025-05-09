@@ -1,0 +1,14 @@
+# White Board – 2025-05-09
+
+## 🔧 Dev / Projects
+
+- ✅ UnitQuiz framework set up, committed to GitHub, and deployed on Replit: https://replit.com/join/snecvdfyhq-brandenjfrank
+- 🛠 Fix multiple-answer questions (e.g., “A and B”) in randomized order for UnitQuiz
+
+## 📬 Outreach / Roles
+
+- 📌 Salim Sabirov reached out re: Salesforce DevOps role
+- 📩 Reached out to contact about Stetson Starkey and sent one-pager
+
+## 🕐 Pending / Deferred
+- [ ] All other action items from earlier whiteboards (not yet started)
