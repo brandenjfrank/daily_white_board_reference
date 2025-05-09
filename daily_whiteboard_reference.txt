@@ -1,0 +1,72 @@
+# 🧠 Daily Whiteboard Reference
+
+This document serves as a living reference for daily goals, reminders, and ongoing work/career initiatives. It blends project tasks, learning goals, and personal maintenance items for holistic focus.
+
+---
+
+## 🔁 Ongoing Goals
+
+- 💼 **Find new project/role/job**
+  - Ongoing effort as a tech consultant
+  - Monitor internal/project emails and connect with management regularly
+
+- 📄 **Resume / CV**
+  - Nearly complete; pending final feedback
+  - Reflect recent projects (e.g., Salesforce AI Study Guide work)
+
+- 🌐 **LinkedIn Profile**
+  - Mostly updated, may revisit for polish or post
+
+- 🎓 **Certifications**
+  - Active: Salesforce AI Associate
+  - Future: Platform Developer, Advanced Admin, Service Cloud
+
+---
+
+## 📋 Daily Actionable Reminders
+
+- 🧹 **Clean the tray on desk**
+- 🪑 **Add drawers/cubbies to art desk**
+- 🏢 **Physically return to office occasionally**
+- ✉️ **Email old team** (Michael, Gent, and others)
+- 💾 **Backup everything on work PC**
+
+---
+
+## 🟢 Active Projects
+
+- `unitquiz_framework`
+  - Quiz script v1.0
+  - Guide/unit selection
+  - CLI and scoring system
+
+- `whiteboard_tracker`
+  - CLI-based task tracker with tag support
+  - Future: persistent window/overlay
+
+- `ocr_quiz_builder`
+  - Extract text from images using OCR (pytesseract)
+  - Convert to JSON-formatted quiz entries
+
+- `Salesforce AI Study`
+  - Continue Trailhead modules
+  - Convert learning into quiz-ready units
+
+---
+
+🗓️ **This document is meant to be acknowledged daily at session start.**
+
+# White Board – 2025-05-09
+
+## 🔧 Dev / Projects
+
+- ✅ UnitQuiz framework set up, committed to GitHub, and deployed on Replit: https://replit.com/join/snecvdfyhq-brandenjfrank
+- 🛠 Fix multiple-answer questions (e.g., “A and B”) in randomized order for UnitQuiz
+
+## 📬 Outreach / Roles
+
+- 📌 Salim Sabirov reached out re: Salesforce DevOps role
+- 📩 Reached out to contact about Stetson Starkey and sent one-pager
+
+## 🕐 Pending / Deferred
+- [ ] All other action items from earlier whiteboards (not yet started)
